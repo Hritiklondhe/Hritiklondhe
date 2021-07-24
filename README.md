@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hritiklondhe.
 - 👀 I’m interested in making new thing. 
-- 🌱 I’m currently learning (frontend and backend).
+- 🌱 I’m currently learning web devlopment,machine learning,Artificial intelligence and cyber security.😊
 - 📫 How to reach me @Hritiklondhe
 
 <!---
