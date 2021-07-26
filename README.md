@@ -3,7 +3,5 @@
 
 - 👨‍ 💻 I'm currently working on project!
 - 🌱 I’m currently learning web devlopment,Artificial intelligence and cyber security.😊
-- 
 - 👀 I’m interested in making new thing. 
-- 🌱 I’m currently learning web devlopment,Artificial intelligence and cyber security.😊
-- 📫 How to reach me @Hritiklondhe
+- 📫 How to reach me ....
