@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javacript,python,java,javascript,Machine learning.**
 
-- 👯 I’m looking to collaborate on **github page**
+- 👯 I’m looking to collaborate on **github page google colab**
 
 - 🤝 I’m looking for help with **Projects**
 
