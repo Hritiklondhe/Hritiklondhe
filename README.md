@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hritik</h1>
 <h3 align="center">My biggest passion is learning about software and technology.</h3>
 
-- 🔭 I’m currently working on **Artifical Intelligence**
+- 🔭 I’m currently working on **BE PROJECT**
 
 - 🌱 I’m currently learning **javacript,python,java,javascript,Machine learning.**
 
