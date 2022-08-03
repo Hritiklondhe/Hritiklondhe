@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hritik</h1>
 <h3 align="center">My biggest passion is learning about software and technology.</h3>
 
-- 🔭 I’m currently working on **BE PROJECT**
+- 🔭 I’m currently working on **PROJECT**
 
-- 🌱 I’m currently learning **javacript,python,java,javascript,Machine learning.**
+- 🌱 I’m currently learning **Javacript,Python,Java,Javascript, Machine learning, Data Structure and Algorithm**
 
 - 👯 I’m looking to collaborate on **github page,google colab**
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **londhehritik1408@gmail.com**
 
-- ⚡ Fun fact **Something I can’t live without😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
