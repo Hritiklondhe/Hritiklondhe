@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **PROJECT** -->
 
-- 🌱 I’m currently learning **Javacript,Python,Java,Javascript, Machine learning, Data Structure and Algorithm**
+- 🌱 I’m currently learning **Full Stack Java**
 
 - 👯 I’m looking to collaborate on **github page,google colab**
 
